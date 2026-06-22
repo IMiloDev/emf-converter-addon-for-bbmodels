@@ -4,6 +4,7 @@ By IMilo
 > Plugin for Blockbench  
 > Converts Blockbench animations (visual keyframes) into mathematical expressions compatible with [EMF (Entity Model Features)](https://modrinth.com/mod/entity-model-features), generating a ready-to-use Minecraft resource pack.
 
+For mandatory requirements and limitations, see: [Important.md](Important.md)
 
 ## 🇬🇧 English
 
