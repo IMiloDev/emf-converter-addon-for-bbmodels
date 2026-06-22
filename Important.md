@@ -1,4 +1,7 @@
 # Required Bone Structure / Estructura Obligatoria
+> The following hierarchy shown below is necessary for a correct conversion to EMF, but the order does not matter at all.
+>
+> La siguiente jerarquía mostrada abajo es necesaria para una conversión correcta a EMF, pero el orden no importa en absoluto.
 <table>
 <tr>
 
@@ -30,10 +33,6 @@ left_leg
 
 </tr>
 </table>
-
-> The hierarchy shown above is necessary for a correct conversion to EMF, but the order does not matter at all.
-> 
-> La jerarquía mostrada arriba es necesaria para una conversión correcta a EMF, pero el orden no importa en absoluto.
 
 ---
 
