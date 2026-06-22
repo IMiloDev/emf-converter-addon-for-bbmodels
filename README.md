@@ -1,10 +1,9 @@
 # EMF Converter Addon  
-By IMilo  
+By IMilo 
 
 > Plugin for Blockbench  
 > Converts Blockbench animations (visual keyframes) into mathematical expressions compatible with [EMF (Entity Model Features)](https://modrinth.com/mod/entity-model-features), generating a ready-to-use Minecraft resource pack.
 
----
 
 ## 🇬🇧 English
 
@@ -15,7 +14,7 @@ By IMilo
 3. Converts keyframes into trigonometric expressions usable by EMF at runtime.  
 4. Generates `player.jem` and `player_slim.jem`, preparing a resource pack structure.
 
----
+----
 
 ### Installation
 
@@ -36,7 +35,6 @@ By IMilo
 6. Compress it into a `.zip` and place it in your resource packs folder  
 
 ---
-
 ## 🇪🇸 Español
 
 ### ¿Qué hace?
@@ -64,4 +62,10 @@ By IMilo
 3. Ejecuta el EMF Converter Addon  
 4. Selecciona los tipos de animación (idle / walk / custom)  
 5. Exporta a la carpeta creada  
-6. Comprímelo en `.zip` y colócalo en tu carpeta de resource packs  
+6. Comprímelo en `.zip` y colócalo en tu carpeta de resource packs
+---
+
+#### Licence
+
+##### MIT — open source, do whatever you want with it.
+
