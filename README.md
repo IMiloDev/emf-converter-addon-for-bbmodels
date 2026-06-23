@@ -19,11 +19,12 @@ For mandatory requirements and limitations, see: [Important.md](Important.md)
 
 ### Installation
 
-1. Download Blockbench  
-2. Open Blockbench  
-3. Go to File → Plugins → EMF Converter Addon  
-4. Click Install  
-
+1. Download the .zip file
+2. Unzip it
+3. Open Blockbench
+4. Click File, then Addons
+5. Add the addon from your desktop
+6. Enjoy
 ---
 
 ### Usage
@@ -49,10 +50,12 @@ For mandatory requirements and limitations, see: [Important.md](Important.md)
 
 ### Instalación
 
-1. Descarga Blockbench  
-2. Abre Blockbench  
-3. Ve a File → Plugins → EMF Converter Addon  
-4. Haz clic en Install  
+1. Descarga el archivo en .zip
+2. Descomprimelo
+3. Abre blockbench
+4. Dale a File luego a addons
+5. Añadir addon desde el escritorio
+6. Disfruta 
 
 ---
 
