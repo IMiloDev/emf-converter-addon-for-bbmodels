@@ -38,6 +38,9 @@ left_leg
 
 # Possible Issues and limitations:
 - Custom animations require a continuously increasing progress variable supplied externally. Boolean variables are not supported.
+- Also, the movement cycle is bugged, and constantly makeing errors. Looking this, ima upload a new version complety, redesing the way you have to animate your buddy.
+- This one is a early version and much failed, ima try as hard i can, love you all.
  
 
-If you find any more, please provide feedback.
+## THIS BUILD IS EXPERIMENTAL.
+### Im makeing the new version 2.0, maybe in a few moths or years i'll publish it.
