@@ -10,11 +10,14 @@ By IMilo
 2. Lets you assign each animation a behavior type (idle, walk, custom).  
 3. Converts keyframes into trigonometric expressions usable by EMF at runtime.  
 4. Generates `player.jem` and `player_slim.jem`, preparing a resource pack structure.
----
 
+---
 # Required Bone Structure
 > The following hierarchy shown below is necessary for a correct conversion to EMF, but the order does not matter at all.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IMiloDev/emf-converter-addon-for-bbmodels/main/assets/example.png" width="320">
+</div>
 
 ---
 ### Usage
